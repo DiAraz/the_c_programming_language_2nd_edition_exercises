@@ -6,7 +6,7 @@
 #define LOWER 0
 #define STEP 30
 
-int main()
+int main(void)
 {
     int fahr;
 
