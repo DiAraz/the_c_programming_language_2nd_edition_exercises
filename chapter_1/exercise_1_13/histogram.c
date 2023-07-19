@@ -5,7 +5,7 @@
 
 #define MAX_WORD_LENGTH 100
 
-int main()
+int main(void)
 {
     int c, i, length;
     int wordLength[MAX_WORD_LENGTH];
